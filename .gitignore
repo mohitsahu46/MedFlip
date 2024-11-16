@@ -1,0 +1,15 @@
+# Dependency directories
+MedFlip Mini Project/node_modules
+MedFlip Mini Project/backend/node_modules
+MedFlip Mini Project/medflip-frontend/node_modules
+
+# Production build directory
+/build
+/dist
+
+# IDE/Editor files
+.idea/
+.vscode/
+
+# Environment variables file (if applicable)
+.env
